@@ -1,7 +1,7 @@
 # Latihan Soal Chapter 4 Topic 2
 
 ## Perintal Soal
-> Buatlah sebuah fungsi javascript untuk convert string jadi angka dalam format rupiah contoh : 
+> 1. Buatlah sebuah fungsi javascript untuk convert string jadi angka dalam format rupiah contoh : 
   input 100 menjadi Rp100
   input 1000 menjadi Rp1000
   input 1000000 menjadi Rp1000.000
