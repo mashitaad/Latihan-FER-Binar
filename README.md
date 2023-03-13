@@ -5,6 +5,11 @@
  input 100 menjadi Rp100 <br>
  input 1000 menjadi Rp1000 <br>
  input 1000000 menjadi Rp1000.000 <br>
+ 
+ ## Identitas
+| Nama           |
+| ---            |
+| Mashita Dewi   |
   
 ## Penyelesaian
 
