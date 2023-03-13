@@ -36,6 +36,7 @@ function convertToRupiah(angka) {
 ## Contoh Penggunaannya
 ```ruby
 console.log(convertToRupiah('100')); // Rp100
+console.log(convertToRupiah('1000')); // Rp1000
 console.log(convertToRupiah('1000000')); // Rp1.000.000
 ```
 - Cara kerja fungsi ini adalah dengan mengambil angka sebagai parameter masukan dan mengonversinya menjadi string. 
