@@ -6,10 +6,10 @@
 | Mashita Dewi   |
 
 ## Perintal Soal
->1. Buatlah sebuah fungsi javascript untuk convert string jadi angka dalam format rupiah contoh :<br>
- input 100 menjadi Rp100 <br>
- input 1000 menjadi Rp1000 <br>
- input 1000000 menjadi Rp1000.000 <br>
+1. Buatlah sebuah fungsi javascript untuk convert string jadi angka dalam format rupiah contoh :<br>
+input 100 menjadi Rp100 <br>
+input 1000 menjadi Rp1000 <br>
+input 1000000 menjadi Rp1000.000 <br>
   
 ## Penyelesaian
 
@@ -44,7 +44,7 @@ console.log(convertToRupiah('1000000')); // Rp1.000.000
 - Terakhir, string hasilnya dibalikkan lagi dan ditambahkan awalan "Rp ".
 
 ## Perintah Soal
->2. Buatlah fungsi async await fetch ditto lalu ketika berhasil , print move-nya dan panggil fungsi fetch dengan ada hasil console log "Ditto move : transform"<br> optional : tampilin statsnya
+2. Buatlah fungsi async await fetch ditto lalu ketika berhasil , print move-nya dan panggil fungsi fetch dengan ada hasil console log "Ditto move : transform"<br> optional : tampilin statsnya
 
 ## Penyelesaian
 ```ruby
